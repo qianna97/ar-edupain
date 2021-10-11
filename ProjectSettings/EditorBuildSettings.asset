@@ -4,7 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 23795b038c9104242b747d7354b648ea
+  - enabled: 0
+    path: Assets/MRTK/Examples/Demos/UX/PressableButton/Scenes/PressableButtonExample.unity
+    guid: b2d06bb8d7f107d4783a56c796c5c120
+  - enabled: 0
+    path: Assets/MRTK/Examples/Demos/UX/BoundingBox/Scenes/BoundingBoxRuntimeExample.unity
+    guid: a7d9284da176d9542af67603dab6088c
+  - enabled: 0
+    path: Assets/MRTK/Examples/Demos/UX/ManipulationHandler/Scenes/ManipulationHandlerExample.unity
+    guid: 3d74027e06372354b9e26c9d79b20d83
+  - enabled: 0
+    path: Assets/MRTK/Examples/Demos/UX/Dialog/Scenes/DialogExample.unity
+    guid: 245313338ea69944ab8e537d014475a6
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 598f659254a028a4eb86e5a586ce2c96, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 96093e77f08502541838f275563aa24e, type: 2}
